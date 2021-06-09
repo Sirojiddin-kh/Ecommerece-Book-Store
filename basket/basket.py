@@ -6,3 +6,4 @@ class Basket():
         if 'skey' is not request.session:
             basket = self.session['skey'] = {}
         self.basket = basket
+

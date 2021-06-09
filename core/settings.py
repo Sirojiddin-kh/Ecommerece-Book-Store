@@ -48,7 +48,7 @@ TEMPLATES = [
                 'store.context_processors.categories',
                 'basket.context_processors.basket'
             ],
-        }, 
+        },
     },
 ]
 
